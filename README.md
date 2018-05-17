@@ -1,4 +1,4 @@
-# CustomCloset
+# Three.js World Template
 
 World template with OrbitControls and a plane as 'floor', no physics included
 
